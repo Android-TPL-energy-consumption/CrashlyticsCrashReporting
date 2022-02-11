@@ -12,6 +12,11 @@ outside error message window, and finally, wait a few seconds for error reports 
 
 To use it, make sure you have `adb` installed and an Android device with dev mode plugged-in.
 
+## Configuration
+
+Please note that only Firebase Crashlytics has been included in this application; we did not include
+Google Analytics SDK in it.
+
 ## Credits
 
 [https://github.com/rsain/Android-TPLs](https://github.com/rsain/Android-TPLs)
