@@ -1,4 +1,4 @@
-package tpl.crashreporting.template;
+package tpl.crashreporting.crashlytics;
 
 import org.junit.Test;
 
